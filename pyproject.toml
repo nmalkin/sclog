@@ -1,9 +1,11 @@
 [tool.poetry]
 name = "sclog"
-version = "0.1.1"
+version = "0.1.2"
 description = "simple colorized log"
 authors = ["nmalkin"]
 license = "BSD-3-Clause"
+readme = "README.md"
+homepage = "https://github.com/nmalkin/sclog"
 
 [tool.poetry.dependencies]
 python = ">=3.5"
